@@ -1,0 +1,2 @@
+# Cardinax
+Cardinax Coin
